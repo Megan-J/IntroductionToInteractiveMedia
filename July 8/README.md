@@ -2,6 +2,6 @@ Hello!
 
 The environment in my self-portrait is supposed to be the Muir Woods National Monument in California. Every time I visit I think back to my first time there. The quite peace that settles in the area puts my brain to rest. I stop thinking about everything I have to finish and complete by a certain deadline. I stop planning for the future for a moment and recognize the beauty around me. This environment also reminds me of my family and the happy memories we share. 
 
-[](SelfPortrait.png)
+![](SelfPortrait.png)
 
 A couple challenges I faced included finding the exact coordinates and discovering how the arc function acted. Since there is no rulers or axes, it is difficult to determine the exact numbers I needed in my drawing. However, I discovered that inputing numbers that I thought would work in the place was succesful as well. The arc function is very interesting since it has 6 different numbers or variables a user can input. I eventually discovered that the first two numbers represented the x and y coordinates, the second two numbers represented the width and height, and the last two numbers represented where the arc would start and stop. I found it interesting when the stoke function was enabled with the arc function it only outlines the arc and not the straight edge. I finally discovered that if the user adds CHORD to the end of the number values, the stroke function will then draw that line for them. 
