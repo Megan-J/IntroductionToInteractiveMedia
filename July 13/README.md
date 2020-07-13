@@ -8,12 +8,15 @@ Throughout the code, I was also inspired by [Austin Chang's] (https://github.com
 **Rules**
 
 * Combine two objects in an unorthodox way
+
 I chose to represent butterflies and fast movement. The butterflies are in the foreground and the quick drawn line is behind them. Butterflies, ususally peaceful creatures, would never be near chaotic movement but the improbability of that fact is captured within my piece.
 
 * Include repition 
+
 The butterflies' wings are the same shape but just rotated around an axis, the line in the background is composed of squares that move near each other, and the stars in the corner have the same width, height, and distance away from each other. 
 
 * There must be some animation
+
 Every time the program is run, the chaotic line in the background resets to do the included random() function and the stars twinkle, changing from black to yellow.
 
 ![](hw2.png)
