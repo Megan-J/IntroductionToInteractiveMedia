@@ -3,7 +3,7 @@
 
 While creating this piece, I was inspired by [Casey Reas](https://reas.com/10_print/)' and [Bill Kolomyjec](http://recodeproject.com/artwork/v2n3random-squares)'s works. Reas designed prints using the symbols of an Commodore 64 in repition to create a pattern. In his lecture about [chance operations] (https://vimeo.com/45851523), Reas mentioned allow the computer to come up with certain values to create the artwork. Kolomyjec's *Random Squares* inspired movement within a standstill image. The certain numbers of squares within another and the position in which the final square lands leads viewers to see a 3-dimensional object on a 2-dimensional surface. In my image, I used a combination of Reas' and Kolomyjec's techniques. There are close together squares to form movement throughout my piece similar to *Random Squares*. I also used the random() function to determine the location of the squares, which is similar to Reas' method. 
 
-Throughout the code, I was also inspired by [Austin Chang's] (https://github.com/l0rdf2l/CreativeProgrammingAndElectronics/blob/master/July%208/assignment1.pde) way of organizing the code, separating difficult purposes of the code by functions, and [Erik's color palette] (https://github.com/ehansmakes/CreativeProgrammingAndElectronics/blob/master/July_8/SelfPortraitV3.jpg) of his self-portrait. 
+Throughout the code, I was also inspired by [Austin Chang's](https://github.com/l0rdf2l/CreativeProgrammingAndElectronics/blob/master/July%208/assignment1.pde) way of organizing the code, separating difficult purposes of the code by functions, and [Erik's color palette](https://github.com/ehansmakes/CreativeProgrammingAndElectronics/blob/master/July_8/SelfPortraitV3.jpg) of his self-portrait. 
 
 **Rules**
 
