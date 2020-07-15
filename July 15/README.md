@@ -1,7 +1,7 @@
 At first, I wanted to create a game with a bouncing character trying to reach the top of the screen using floating islands. However, I discovered that I could not alter the bouncing code to stop dropping at the bottom every time and in relation to the locations of the floating islands. For this idea, I was inspired by [Fire Boy and Water Girl] (https://www.coolmathgames.com/0-fireboy-and-water-girl-in-the-forest-temple).
 
 
-I then changed my idea into a timed maze puzzle. I had recently watched *[Inception]*, (https://www.youtube.com/watch?v=YoHD9XEInc0) a movie where dream thieves have to use complex mazes to perfect their craft. Despite this, my maze game is very simple. I was also inspired by *[Monsters, Inc.]* (https://youtu.be/8IBNZ6O2kMk). When I coded the door in the top corner for the original idea, I began thinking about *Monsters, Inc.* and the loveable characters than came along with the film. My game is based off of the movie.
+I then changed my idea into a timed maze puzzle. I had recently watched *[Inception,]* (https://www.youtube.com/watch?v=YoHD9XEInc0) a movie where dream thieves have to use complex mazes to perfect their craft. Despite this, my maze game is very simple. I was also inspired by *[Monsters, Inc.]* (https://youtu.be/8IBNZ6O2kMk). When I coded the door in the top corner for the original idea, I began thinking about *Monsters, Inc.* and the loveable characters than came along with the film. My game is based off of the movie.
 
 
 ![](Maze.png)
