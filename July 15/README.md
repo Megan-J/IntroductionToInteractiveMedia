@@ -22,7 +22,7 @@ I then changed my idea into a timed maze puzzle. I had recently watched *[Incept
    
 **Difficulties**
 
-The main difficulty was not being able to use loops within the program due to the repetative draw function. I needed the draw function to repeat so that the path of the character was not seen but I had to determine the location for each struction. I also discovered that one must be fluid in the design and be prepared to change everything when the original idea does not work. I eventually worked around my first idea but finding another one was hard. 
+The main difficulty was not being able to use loops within the program due to the repetative draw function. I needed the draw function to repeat so that the path of the character was not seen but I had to determine the location for each struction. I also discovered that one must be fluid in the design and be prepared to change everything when the original idea does not work. I eventually worked around my first idea but finding another one was hard. I also did not understand how to ensure that the player could not pass the borders of the rectangles.
    
  **Interesting Take Aways**
  
