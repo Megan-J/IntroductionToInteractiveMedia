@@ -11,9 +11,9 @@ I got further inspiration for my drawings by doing a quick Google search. I used
 
 ![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/midterm/Sprite%20Alien.jpg)
 
-![](Sprite Astro.png)
+![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/midterm/Sprite%20Astro.png)
 
-![](Sprite UFO.png)
+![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/midterm/Sprite%20UFO.png)
 
 **Rules**
 
@@ -35,4 +35,4 @@ I discovered that looking at the downloaded Libraries and examples in Processing
 
 I used [soundbible.com](http://soundbible.com/) for all my noises in the game. I used “Bleep Sound” and “Mario Jumping Sound” by Mike Koenig and “Jump Sound” by snottyboy. The font I used within the game is called 222 03 from 1001.fonts.com
 
-![](midterm-pic.png)
+![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/midterm/midterm%20-%20pic.png)
