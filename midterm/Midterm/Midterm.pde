@@ -7,7 +7,7 @@
  touch the most objects to get the highest score!
  
  All art is done by me. However, all the sound clips are from soundbible.com. The noise when the player
- and object colide is called "Bleed Sound" by Mike Koenig, the noise when the player jumps is called
+ and object colide is called "Bleep Sound" by Mike Koenig, the noise when the player jumps is called
  "Jump Sound" by snottyboy, the game over noise is called "Electrical Sweep Sound" by Sweeper, and the noise
  when the player takes a step in the left or right direction is called "Mario Jumping Sound" by Mike Koenig.
  The font is called 222 03 from 1001fonts.com
