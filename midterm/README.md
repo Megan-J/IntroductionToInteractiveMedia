@@ -35,4 +35,4 @@ I discovered that looking at the downloaded Libraries and examples in Processing
 
 I used [soundbible.com](http://soundbible.com/) for all my noises in the game. I used “Bleep Sound” and “Mario Jumping Sound” by Mike Koenig and “Jump Sound” by snottyboy. The font I used within the game is called 222 03 from 1001.fonts.com
 
-![]{midterm-pic.png)
+![](midterm-pic.png)
