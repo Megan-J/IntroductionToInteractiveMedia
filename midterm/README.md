@@ -9,7 +9,7 @@ In my game, the character that represents the player is a tiny astronaut. He or 
 
 I got further inspiration for my drawings by doing a quick Google search. I used these three images to help me design my own sprites!
 
-![](Sprite Alien.jpg)
+![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/midterm/Sprite%20Alien.jpg)
 
 ![](Sprite Astro.png)
 
