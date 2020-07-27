@@ -20,12 +20,14 @@ The red and blue buttons will both play through all the notes in their melodies 
 
 I ran out of red wires to connect the buttons to the 5V charged area of the breadboard. I ended up using two white wires instead because the yellow wires were used to connect the buttons to the pins.
 
-I also wanted to use classes for the melodies of different buttons. However, after searching the [Arduino forum](https://forum.arduino.cc/index.php?topic=324374.0#:~:text=If%20you%20have%20two%20arrays,an%20array%20to%20another%20array.), this would mean I needed to copy each item individually from one array to the other. I decided that writing the code for the different melodies and button separately was better.
+I also wanted to use classes for the melodies of different buttons. However, after searching the [Arduino forum](https://forum.arduino.cc/index.php?topic=324374.0#:~:text=If%20you%20have%20two%20arrays,an%20array%20to%20another%20array.), this would mean I needed to copy each item individually from one array to the other. I decided that writing the code for the different melodies and button separately was better. I also understood what each line of code exactly did when differing some actions of buttons from others.
 
 
 ## Schematic
 
 I used the Arduino tutorials page to learn how to draw the [piezo buzzer](https://www.arduino.cc/en/Tutorial/ToneMelody) and the [servo motor](https://www.arduino.cc/en/Tutorial/Knob).
+
+![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/27July_MusicalInstrument/schematic%20-%20instrument.png)
 
 ## Video Links
 
