@@ -35,7 +35,7 @@ I used the Arduino tutorials page to learn how to draw the [piezo buzzer](https:
 
 ## Video Links
 
-Because Github can only accept files of a certain size, I had to split up the video into two short video clips. Here is the [first one](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/27July_MusicalInstrument/instrumentVid-Part1.mp4) and this is the [second one](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/27July_MusicalInstrument/instrumentVid-Part2.mp4). You may have to download the videos to be able to view it since Github doesn't allow them to play due to their size. Both clips are only 16 seconds long.
+Because Github can only accept files of a certain size, I had to split up the video into two short video clips. Here is the [first one](https://drive.google.com/file/d/1vOjUYXwVpo2Kr_XH3Du0OsUVemt32Em8/view?usp=sharing) and this is the [second one](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/27July_MusicalInstrument/instrumentVid-Part2.mp4). You may have to download the videos to be able to view it since Github doesn't allow them to play due to their size. Both clips are only 16 seconds long.
 
 ## Close Up of Electronics
 
