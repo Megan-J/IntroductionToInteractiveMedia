@@ -24,6 +24,8 @@ I ran out of red wires to connect the buttons to the 5V charged area of the brea
 
 I also wanted to use classes for the melodies of different buttons. However, after searching the [Arduino forum](https://forum.arduino.cc/index.php?topic=324374.0#:~:text=If%20you%20have%20two%20arrays,an%20array%20to%20another%20array.), this would mean I needed to copy each item individually from one array to the other. I decided that writing the code for the different melodies and button separately was better. I also understood what each line of code exactly did when differing some actions of buttons from others.
 
+Another issue I originally ran into was uploading my code to the Arduino. Because I originally used the 0 and 1 pins, which are also the RX and TX pins respectively, the code was not able to upload to the board. I continued to receive error messages. However, thanks to the [Arduino Troubleshooting page](https://www.arduino.cc/en/guide/troubleshooting#:~:text=If%20nothing%20appears%20in%20your,the%20code%20has%20been%20uploaded).) I learned that I needed to unplug the wires corresponding to those pins when uploading the code. Once the code was uploaded, then I could plug those wires back in!
+
 
 ## Schematic
 
