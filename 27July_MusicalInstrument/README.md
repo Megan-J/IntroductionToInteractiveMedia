@@ -18,6 +18,8 @@ The red and blue buttons will both play through all the notes in their melodies 
 
 ## Interesting Notes about Problems
 
+For my idea with the servo motor acting as volume control, an issue I originally had was the height difference. The breadboard is flat and the servo motor was taller than the breadboard when both were on the desk. I decided that I needed a base for the breadboard but was unsure of the exact height I needed. I looked around my desk to see what could act as a possible base. Then I remembered that I had stacks of used flashcards in my desk. Flashcards worked the best because I could add more or take away some to make the piezo buzzer flush with the arm of the servo motor. 
+
 I ran out of red wires to connect the buttons to the 5V charged area of the breadboard. I ended up using two white wires instead because the yellow wires were used to connect the buttons to the pins.
 
 I also wanted to use classes for the melodies of different buttons. However, after searching the [Arduino forum](https://forum.arduino.cc/index.php?topic=324374.0#:~:text=If%20you%20have%20two%20arrays,an%20array%20to%20another%20array.), this would mean I needed to copy each item individually from one array to the other. I decided that writing the code for the different melodies and button separately was better. I also understood what each line of code exactly did when differing some actions of buttons from others.
