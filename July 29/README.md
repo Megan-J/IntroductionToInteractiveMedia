@@ -13,3 +13,7 @@ I modified my midterm project to combine the code of that project with an Arduin
 ![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/July%2029/Schematic.jpg)
 
 ### Close Up of Electronics
+
+![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/July%2029/MidtermRemix2.JPG)
+
+![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/July%2029/MidtermRemix3.jpg)
