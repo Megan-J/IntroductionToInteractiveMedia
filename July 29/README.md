@@ -10,4 +10,6 @@ I modified my midterm project to combine the code of that project with an Arduin
 
 ### Schematic
 
+![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/July%2029/Schematic.jpg)
+
 ### Close Up of Electronics
