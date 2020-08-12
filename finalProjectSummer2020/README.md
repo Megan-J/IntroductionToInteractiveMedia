@@ -38,7 +38,7 @@ The small text next to the device connected to pin A3 is potentiometer.
 
 ![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/finalProjectSummer2020/bottom.JPG)
 
-I used almost all the wires in my kit except one! That's why there are so many different colors. I placed black or red tape over the wires that connected to GND or 5V respectively.
+I used almost all the wires in my kit except one! That's why there are so many different colors. I placed black or red tape over the wires that connected to GND or 5V respectively. I also used zip ties to hold the wires corresponding to the same sensor together so they would go all over the breadboard.
 
 ### Link to Video
 
