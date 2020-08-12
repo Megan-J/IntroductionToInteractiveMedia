@@ -22,3 +22,24 @@ A large issue was trying to figure out how to connect the Arduino to Processing.
 
 ![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/finalProjectSummer2020/finalSchematic.jpg)
 
+The small text next to the device connected to pin A3 is potentiometer.
+
+### Close Up of Electronics
+
+![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/finalProjectSummer2020/close%20up.JPG)
+
+![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/finalProjectSummer2020/close%20up%202.JPG)
+
+![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/finalProjectSummer2020/angle.JPG)
+
+![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/finalProjectSummer2020/angle%202.JPG)
+
+![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/finalProjectSummer2020/wires.JPG)
+
+![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/finalProjectSummer2020/bottom.JPG)
+
+I used almost all the wires in my kit except one! That's why there are so many different colors. I placed black or red tape over the wires that connected to GND or 5V respectively.
+
+### Link to Video
+
+
