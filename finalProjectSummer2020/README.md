@@ -12,7 +12,7 @@ Originally, I wanted the robot's path to be tracked and drawn on the Processing 
 
 Since I was working with unfamiliar code such as sound frequency and a visual output, I was very confused at first. The examples within Processing about creating waves to represent volume and bars to represent FFT helped but I was still confused how to alter them to fit my needs. I found that writing the code in my notebook and trying to describe what the code was doing allowed me to understand the code and alter it to fit my project needs. For this project, I found myself sketching visuals and writing notes kept me on track. I made several checklists and bug checklists to prioritize what parts of my project I needed to complete. 
 
-!()[https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/finalProjectSummer2020/Screen%20Shot%202020-08-12%20at%204.06.04%20PM.png]
+![](https://github.com/Megan-J/IntroductionToInteractiveMedia/blob/master/finalProjectSummer2020/Screen%20Shot%202020-08-12%20at%204.06.04%20PM.png)
 
 ### Problems
 
